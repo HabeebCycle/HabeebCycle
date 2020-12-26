@@ -44,7 +44,7 @@
   ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS&logoColor=232F3E)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
   ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google-Cloud)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft-Azure)
 - 🔧 &nbsp;
