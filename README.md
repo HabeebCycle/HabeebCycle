@@ -15,7 +15,7 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring Boot](https://img.shields.io/badge/-Spring-Boot-333333?style=flat&logo=Spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=Spring)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C-Sharp&logoColor=00599C)
@@ -27,9 +27,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=Vue.js)
-  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=Material-UI)
-  ![Ant Design](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=Ant-Design)  
+  ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=Vue.js) 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -49,7 +47,7 @@
   ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google-Cloud)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft-Azure)
 - 🔧 &nbsp;
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-IDEA-333333?style=flat&logo=IntelliJ-IDEA)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=IntelliJ-IDEA)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
   ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -60,7 +58,7 @@
 - 🖥 &nbsp;
   ![Autodesk](https://img.shields.io/badge/-Autodesk-333333?style=flat&logo=Autodesk)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
-  ![Microsoft Office](https://img.shields.io/badge/-Microsoft-Office-333333?style=flat&logo=Microsoft-Office)
+  ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=Microsoft-Office)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
