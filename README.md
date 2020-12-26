@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about DevOps, Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Artificial Intelligence knowlegde and playing chess as hobbies/side hustles.
 - ⚡ &nbsp; There are two ways to write error-free codes; only the third one works
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> : A wife, 1 boy and 2 girls <em><b>I love my family!</b> 😊</em>
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> &nbsp; A wife, 1 boy and 2 girls <em><b>I love my family!</b> 😊</em>
 
 <h3> 🛠 &nbsp;Tech Stack &nbsp; 🛠</h3>
 
@@ -29,6 +29,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=Vue.js) 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=E10098)
+  ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
