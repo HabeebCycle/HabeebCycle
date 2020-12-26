@@ -14,7 +14,7 @@
 <h3> 🛠 &nbsp;Tech Stack &nbsp; 🛠</h3>
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=Spring)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
@@ -28,11 +28,11 @@
   ![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=Vue.js) 
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=E10098)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQ&logoColor=336791)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=SQLite)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
@@ -40,7 +40,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
+  ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon-AWS)
@@ -53,8 +53,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Notepad++](https://img.shields.io/badge/-Notepad++-333333?style=flat&logo=Notepad++&logoColor=90E59A)
+  ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=PowerShell&logoColor=5391FE)
 - 🖥 &nbsp;
   ![Autodesk](https://img.shields.io/badge/-Autodesk-333333?style=flat&logo=Autodesk)
   ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
