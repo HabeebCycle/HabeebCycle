@@ -48,9 +48,9 @@
   ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=Google-Cloud)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Microsoft-Azure)
 - 🔧 &nbsp;
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat&logo=IntelliJ-IDEA&logoColor=000000)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm&logoColor=000000)
-  ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm&logoColor=000000)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-444444?style=flat&logo=IntelliJ-IDEA)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=PyCharm)
+  ![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=PhpStorm)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide)
@@ -58,7 +58,7 @@
   ![PowerShell](https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=PowerShell&logoColor=5391FE)
 - 🖥 &nbsp;
   ![Autodesk](https://img.shields.io/badge/-Autodesk-333333?style=flat&logo=Autodesk)
-  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity&logoColor=000000)
+  ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=Unity)
   ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-333333?style=flat&logo=Microsoft-Office&logoColor=D83B01)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
