@@ -72,8 +72,6 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
 <a href="https://www.habeebcycle.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.habeebcycle.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/habeeb-okunade-229ba3144/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Habeeb%20Okunade-blue?style=flat-square&logo=linkedin"></a>
