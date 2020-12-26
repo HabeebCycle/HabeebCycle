@@ -8,8 +8,8 @@
 - 💼 &nbsp; Working as a Software Engineer at Scopesuite Pty Ltd in Sydney CBD.
 - 🌱 &nbsp; Learning more about DevOps, Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Artificial Intelligence knowlegde and playing chess as hobbies/side hustles.
-- ⚡ Fun fact: There are two ways to write error-free codes; only the third one works
-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love my family!</b> 😊</em>
+- ⚡ &nbsp; There are two ways to write error-free codes; only the third one works
+- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love my family!</b> 😊</em>
 
 <h3> 🛠 &nbsp;Tech Stack &nbsp; 🛠</h3>
 
