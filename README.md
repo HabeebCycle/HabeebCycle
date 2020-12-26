@@ -20,6 +20,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=777BB4)
   ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C-Sharp&logoColor=00599C)
   ![Salesforce (APEX)](https://img.shields.io/badge/-APEX-333333?style=flat&logo=Salesforce&logoColor=276DC3)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
