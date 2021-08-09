@@ -30,6 +30,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![VueJs](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=Vue.js) 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL&logoColor=E10098)
+  ![MaterialUi](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui&logoColor=0081CB)
   ![Ant Design](https://img.shields.io/badge/-Ant%20Design-333333?style=flat&logo=ant-design&logoColor=0170FE)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
